@@ -1,6 +1,0 @@
-node_modules/
-.wrangler/
-.dev.vars
-*.local
-exp.json
-.tmp*
